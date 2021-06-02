@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. As students, our assignment using rails was to add and test many features to the application while getting accustomed and comfortable with using Ruby on Rails. These features included adding the proper money format, a sold-out badge for products, and an "about us" page.  We also included admin privileges and features to add/delete products, add categories, and a dashboard showing total products and categories. User authentication was also added so a user can create an account, sign in, log out, and place an order.  User passwords are safely stored using the bcrypt gem. Testing was done using Rspec, Capybara and Poltergeist.        
 
 ## Additional Steps for Apple M1 Machines
 
